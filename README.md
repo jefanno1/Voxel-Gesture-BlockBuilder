@@ -1,4 +1,4 @@
-# 🧊 Voxel AR Hologram Builder 
+# 🧊 Voxel AR Block Builder 
 
 A browser-based Augmented Reality (AR) voxel architect tool inspired by creative coding concepts. This project allows users to build glowing, 3D wireframe structures in mid-air using hand gestures, entirely within the web browser.
 
