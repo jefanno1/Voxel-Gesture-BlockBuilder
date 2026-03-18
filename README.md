@@ -28,7 +28,6 @@ Once the camera is initialized and the AI model is loaded:
 ## 🚀 Running the Project
 
 ### Option 1: Live Demo (GitHub Pages)
-*(Note: Replace this line with your actual GitHub Pages link once deployed)*
 [Play the Live Demo Here](https://jefanno1.github.io/Voxel-Gesture-BlockBuilder/)
 
 ### Option 2: Run Locally
