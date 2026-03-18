@@ -34,3 +34,7 @@ Once the camera is initialized and the AI model is loaded:
 1. Clone this repository:
    ```bash
    git clone [https://github.com/jefanno1/Voxel-Gesture-BlockBuilder.git](https://github.com/jefanno1/Voxel-Gesture-BlockBuilder.git)
+   ```
+2. Open the project folder in your favorite code editor (e.g., VSCode).
+3. Start a local server (e.g., using the Live Server extension).
+4. Click `[Open Cam]` and allow browser camera permissions.
