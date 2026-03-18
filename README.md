@@ -33,4 +33,4 @@ Once the camera is initialized and the AI model is loaded:
 ### Option 2: Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/jefanno1/Voxel-Gesture-BlockBuilder.git](https://github.com/jefanno1/Voxel-Gesture-BlockBuilder.git)
