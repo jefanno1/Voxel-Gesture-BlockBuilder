@@ -5,6 +5,10 @@ A browser-based Augmented Reality (AR) voxel architect tool inspired by creative
 ![Version](https://img.shields.io/badge/Version-1.0-cyan)
 ![Tech](https://img.shields.io/badge/Tech-HTML5%20|%20Three.js%20|%20MediaPipe-blue)
 
+## 🎬 Demo
+
+![Voxel Block Demo](./voxel-block.gif)
+
 ## ✨ Features
 
 * **✋ 2-Hand Tracking:** Utilizes Google's modern AI (MediaPipe Tasks Vision) to track both hands simultaneously in real-time.
